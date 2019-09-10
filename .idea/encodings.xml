@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/kstudy/ui/activity/DragActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/kstudy/ui/activity/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/kstudy/ui/activity/YoutubeActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/kstudy/view/DragLayout.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/kstudy/view/YoutubeLayout.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/DragLayout.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/YoutubeLayout.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_drag.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_youtube.xml" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
